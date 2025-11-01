@@ -1,8 +1,12 @@
 # UI-UX-Experiment4
 ## DHARUN ARULSELVAN
-## REG: 212224220024
 
-## Aim: To Design a wireframe diagram for a generic application or website using Balsamiq
+## Aim:
+Design a wireframe diagram for a generic application or website using Balsamiq, including at least 5 essential screens/pages: Welcome/Splash Screen,
+
+ Login/Signup Screen, Home/Dashboard Screen, Content/Product Listing Screen, and Checkout/Contact/Final Action Screen.
+
+
 
 ## Algorithm:
 1. Create Welcome/Splash Screen
@@ -29,6 +33,12 @@
 22. Add a "Place Order" or "Submit" button at the bottom
 
 ## Output:
+![image](https://github.com/user-attachments/assets/20711bcc-bcf2-4d2c-b04a-ab1110a0c3d2)
+
+
+## Result:
+To Design a wireframe diagram for a generic application or website using Balsamiq is completed
+
 ![image](https://github.com/user-attachments/assets/4e653ca0-83cb-4fa3-9eea-0c9302cdf7ba)
 
 
